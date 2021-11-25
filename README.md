@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nishantha Sanjeewa Samaranayaka
 - 🌱 I’m currently learning Web & Mobile app development
-- 📫 Reach me 
-- <a href="https://www.linkedin.com/in/nishantha-sanjeewa-samaranayaka-a8858a174/">Linkedin</a>
+- 📫 Reach me <br><a href="https://www.linkedin.com/in/nishantha-sanjeewa-samaranayaka-a8858a174/">Linkedin</a>
 
 
 <!---

@@ -34,12 +34,12 @@
 <br>
 <br>
 <br>
-<p align='center'>
+<p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanthamms&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="nishanthamms's Github Stats">
 </p>
-<br>
 
-<p align='center'>
+
+<p align='right'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthamms&show_icons=true&hide_border=true&theme=radical">
 </p>
 <br>

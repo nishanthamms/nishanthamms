@@ -1,4 +1,13 @@
-- 👋 Hi, I’m Nishantha Sanjeewa Samaranayaka
+<p>
+  <h1 align="center"><b>Hello there, I'm Nishantha Sanjeewa👋</b></h1>
+</p>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nishanthamms" />
+</p>
+
+
+- 🔭 I’m a 4th year CST undergraduate at Uva Wellassa University of Sri Lanka
 - 🌱 I’m currently learning Web & Mobile app development
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📫 Reach me <a href="https://www.linkedin.com/in/nishantha-sanjeewa-samaranayaka-a8858a174/">Linkedin</a>
